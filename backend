@@ -1,0 +1,4 @@
+ai-trading-platform/
+└── backend/
+    ├── app.py
+    ├── requirements.txt
